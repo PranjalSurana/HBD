@@ -1,10 +1,8 @@
-<style>
-
 body, html {  height: 100%;}
 
 .bg {  background-image: url(https://i.pinimg.com/originals/54/b0/ef/54b0efc42e2b6989bd2e3cfc5f625311.gif);
   height: 100%; opacity: 0.3; background-position: center;
-  background-repeat: no-repeat; absolute; background-size: cover;}
+  background-repeat: no-repeat; position: absolute; background-size: cover;}
 #cen{  left: 50%; top: 35%; position: absolute; transform: translate(-50%, -50%); }
 #cen1{ width: 330x; height: 330px; border-radius: 50%; position: absolute;  bottom:25px; left: 9%;}
 #cen2{ width: 370px; height: 370px; border-radius: 50%; position: relative; left: 12px; 
